@@ -2,9 +2,11 @@
 
 ## Description
 
-_I am lost._
-_The path I've walked and the road ahead are hidden from sight._
-_Can these tangled QR codes become my gateway to escape?_
+I am lost.
+The path I've walked and the road ahead are hidden from sight.
+Can these tangled QR codes become my gateway to escape?
+
+Distrib: [shattered_maze.zip](https://raw.githubusercontent.com/k-hian/CTFWriteups/refs/heads/main/Brainhack%20CDDC%202025/Shattered%20Maze/distrib/shattered_maze.zip)
 
 ### Flag
 

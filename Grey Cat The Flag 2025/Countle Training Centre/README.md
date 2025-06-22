@@ -3,7 +3,7 @@
 ## Description
 The Countle World Championships is coming! Time to step up your game and start training! It's just a measly 1,000,000 puzzles a day, anyone can do it.
 
-[Distrib@greyctf25](https://github.com/NUSGreyhats/greyctf25-challs-public/tree/main/misc/countle_training_centre/distrib)
+Distrib: [Dockerfile](https://raw.githubusercontent.com/k-hian/CTFWriteups/refs/heads/main/Grey%20Cat%20The%20Flag%202025/Countle%20Training%20Centre/distrib/Dockerfile) [server.py](https://raw.githubusercontent.com/k-hian/CTFWriteups/refs/heads/main/Grey%20Cat%20The%20Flag%202025/Countle%20Training%20Centre/distrib/server.py) [countle_puzzle.py](https://raw.githubusercontent.com/k-hian/CTFWriteups/refs/heads/main/Grey%20Cat%20The%20Flag%202025/Countle%20Training%20Centre/distrib/countle_puzzle.py)
 
 ### Flag
 

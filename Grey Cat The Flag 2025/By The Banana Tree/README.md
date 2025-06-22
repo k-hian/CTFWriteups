@@ -8,6 +8,10 @@ The flag consists of latitude and longitude coordinates of the location where th
 
 Regarding flag format, consider this example for Notre Dame de Paris: `grey{N48-853_E2-349_notredamecathedralofparis}`
 
+![distrib](distrib/bythebananatree.png)
+
+Distrib: [bythebananatree.png](https://raw.githubusercontent.com/k-hian/CTFWriteups/refs/heads/main/Grey%20Cat%20The%20Flag%202025/By%20The%20Banana%20Tree/distrib/bythebananatree.png)
+
 ### Flag
 
 grey{N21-153_E105-274_nhathothanhlam}
