@@ -143,7 +143,7 @@ Eventually, we found the permutation that yielded a valid ELF file:
 [+] Valid ELF detected: Architecture = mips, Entry = 0x400510
     7070 - ['3p7NhhCVa', 'IlmYK4OTy', 'FbbWR4G5I', 'AxUKV4zKI', 'txc1r3U2z', '3456jJXW6', '8VdsMkgFR', 'VzEd2Cyb7']
 ```
-> [!NOTE]
+
 > Another permutation may appear valid to pwntools, but doesn’t produce a truly valid ELF.
 
 Decompiling the reconstructed binary using Ghidra revealed a single relevant function:
