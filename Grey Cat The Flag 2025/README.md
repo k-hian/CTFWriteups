@@ -3,8 +3,8 @@
 ## Writeups
 - [Countle Training Centre](./Countle%20Training%20Centre/)
 - [Red Flag Recon](./Red%20Flag%20Recon/)
-- [By the banana tree](./By%20The%20Banana%20Tree)
-- [SubGB](./SubGB)
+- [By the banana tree](./By%20The%20Banana%20Tree/)
+- [SubGB](./subGB/)
 
 ## About
 Grey Cat The Flag is an annual CTF hosted by NUS Greyhats, and I am really honoured to contribute to this event. 

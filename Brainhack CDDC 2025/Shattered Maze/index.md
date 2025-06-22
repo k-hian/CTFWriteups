@@ -1,6 +1,6 @@
 ---
 layout: default
-title: subGB
+title: Shattered Maze
 ---
 
 {% include_relative README.md %}
