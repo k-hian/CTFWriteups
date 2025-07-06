@@ -200,7 +200,7 @@ Following the directional logic through all QR codes:
 
 ## Thoughts
 
-Definitely an interesting MISC challenge, utilising QR codes very nicely. CDDC was help over 2 days, and unfortunately, I didn't examine the source code on the first day so I didn't find the hint. I think that I might have been able to first blood at the start of the second day, but this "mistake" cost me. Learn from my mistakes I guess.
+Definitely an interesting MISC challenge, utilising QR codes very nicely. CDDC was held over 2 days, and unfortunately, I didn't examine the source code on the first day so I didn't find the hint. I think that I might have been able to first blood at the start of the second day, but this "mistake" cost me. Learn from my mistakes I guess.
 
 I did manage to be the 5th blood, and last I checked (before scoreboard close 1h before end), there were only 9 solves in total.
 

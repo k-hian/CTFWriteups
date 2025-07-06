@@ -1,4 +1,4 @@
-# Grey Cat The Flag 2025
+# Grey Cat The Flag 2025 Quals
 
 ## Writeups
 - [Countle Training Centre](./Countle%20Training%20Centre/)
@@ -9,7 +9,7 @@
 ## About
 Grey Cat The Flag is an annual CTF hosted by NUS Greyhats, and I am really honoured to contribute to this event. 
 
-I wrote four challenges for the Qualifiers (2 OSINT, 2 MISC) and I have included them here. I also added some extra details that were left out of the [official gctf25 writeups](https://github.com/NUSGreyhats/greyctf25-challs-public) (as I committed them a bit too late) to add some more context or information.
+I wrote four challenges for the Qualifiers (2 OSINT, 2 MISC) and I have included them here. I also added some extra details that were left out of the [official gctf25 writeups](https://github.com/NUSGreyhats/greyctf25-challs-public/tree/main/qualifiers) (as I committed them a bit too late) to add some more context or information.
 
 ## Stats
 

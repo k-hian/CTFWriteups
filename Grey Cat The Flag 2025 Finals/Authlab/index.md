@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Grey Cat The Flag 2025
+title: Authlab
 ---
 
 {% include_relative README.md %}
